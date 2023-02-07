@@ -26,3 +26,7 @@ and the Flutter guide for
 /// 滑动物理控件 控制器
 ControllablePhysicsController _controller = ControllablePhysicsController();
 ```
+## Example
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-07 at 10 46 49](https://user-images.githubusercontent.com/24474112/217135945-a8258d5e-ff87-44cb-b0f4-00f7a7c114e3.png)
+
