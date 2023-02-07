@@ -20,7 +20,9 @@ and the Flutter guide for
 ## Usage
 
 当设置dampController.banSwipeUp=true,该physics控制的滑动组件将无法往scroll value递增的方向滑动。
+
 例如设置组件的滑动方向为上下，设置banSwipeUp=true那么滑动组件将无法上滑；
+
 当设置组件的滑动方向为左右，设置banSwipeUp=true，那么滑动组件将无法左滑；
 ```dart
 /// 滑动物理控件 控制器
