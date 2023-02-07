@@ -25,6 +25,8 @@ and the Flutter guide for
 ```dart
 /// 滑动物理控件 控制器
 ControllablePhysicsController _controller = ControllablePhysicsController();
+_controller.banSwipeDown = true;
+_controller.banUpDown = true;
 ```
 ## Example
 
